@@ -28,7 +28,10 @@
 ```
 
 ### Telas
-kids-doc/v1.0.0/telas/login.jpg
-kids-doc/v1.0.0/telas/tipo-usuario.jpg
-kids-doc/v1.0.0/telas/usuario-logado.jpg
-kids-doc/v1.0.0/telas/perfil.jpg
+![image](https://user-images.githubusercontent.com/18357844/27759030-855f096c-5dfa-11e7-92e9-9cd0a95e86fb.png)
+
+![image](https://user-images.githubusercontent.com/18357844/27759032-8ce13f84-5dfa-11e7-85a1-cbf6fb4a86f2.png)
+
+![image](https://user-images.githubusercontent.com/18357844/27759033-95d4bfa8-5dfa-11e7-81ba-6bca58ecce69.png)
+
+![image](https://user-images.githubusercontent.com/18357844/27759036-9f67dd16-5dfa-11e7-88aa-b4502220003a.png)
