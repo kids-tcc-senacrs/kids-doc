@@ -1,4 +1,4 @@
-# KIDS - Validação v1.0.0 - [01-07-2017]
+# KIDS - Sprint Review v1.0.0 - [01-07-2017]
 
 Product Owner: Liziane Ortiz Silva 
 

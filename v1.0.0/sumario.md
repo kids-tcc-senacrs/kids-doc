@@ -4,4 +4,4 @@
 
 * [Restrospectiva](https://github.com/kids-tcc-senacrs/kids-doc/blob/master/v1.0.0/retrospectiva.md) 
 
-* [Validação](https://github.com/kids-tcc-senacrs/kids-doc/blob/master/v1.0.0/validacao.md) 
+* [Sprint Review](https://github.com/kids-tcc-senacrs/kids-doc/blob/master/v1.0.0/sprint-review.md) 
