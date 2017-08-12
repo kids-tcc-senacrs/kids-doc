@@ -8,6 +8,7 @@ Projeto para armazenar artefatos de documentação
 _________________________________________________________________________
 
 * [acessar doc's - v1.0.0](https://github.com/kids-tcc-senacrs/kids-doc/blob/master/v1.0.0/sumario.md) 
+* [acessar doc's - v1.1.0](https://github.com/kids-tcc-senacrs/kids-doc/blob/master/v1.1.0/sumario.md) 
 _________________________________________________________________________
 
 * [Road Map](https://github.com/kids-tcc-senacrs/kids-doc/blob/master/road-map.md) 
