@@ -27,3 +27,16 @@
 ```
 
 ### Telas
+![image](https://github.com/kids-tcc-senacrs/kids-doc/blob/master/v1.1.0/telas/criancas-pesquisa.jpg)
+
+![image](https://github.com/kids-tcc-senacrs/kids-doc/blob/master/v1.1.0/telas/wizard-passo1.jpg)
+
+![image](https://github.com/kids-tcc-senacrs/kids-doc/blob/master/v1.1.0/telas/wizard-passo2.jpg)
+
+![image](https://github.com/kids-tcc-senacrs/kids-doc/blob/master/v1.1.0/telas/wizard-passo3.jpg)
+
+![image](https://github.com/kids-tcc-senacrs/kids-doc/blob/master/v1.1.0/telas/wizard-passo4a.jpg)
+
+![image](https://github.com/kids-tcc-senacrs/kids-doc/blob/master/v1.1.0/telas/wizard-passo4b.jpg)
+
+![image](https://github.com/kids-tcc-senacrs/kids-doc/blob/master/v1.1.0/telas/wizard-passo5.jpg)
