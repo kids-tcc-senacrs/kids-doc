@@ -4,7 +4,6 @@
 | ------ |
 | Aumento na cobertura de testes unitários |
 | Refactory de código fonte / lado servidor|
-| Aplicação hospedada no Heroku|
 | Criação de um repositório somente para artefatos de DB, para agilizar os testes|
 
 | NEGATIVO|

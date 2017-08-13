@@ -6,4 +6,5 @@ Product Owner: Liziane Ortiz Silva
 | ------ | ------ |
 | Wizard para cadastro de crianças                    | aceito |
 | Pesquisa de crianças                                | aceito |
+| Adicionar número de telefone na área de perfil resumido |solicitação de melhoria|
 | cadastrar/editar a foto da criança                  | solicitação de melhoria - *pendente na entrega*|
