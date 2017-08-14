@@ -16,3 +16,4 @@
 | ------ | ------ |
 | Login sem vínculo com rede social | ----------- |
 | Login usando conta do facebook | ----------- |
+| Notificar usuário via e-mail, quando o mesmo for vinculado há alguma criança | ----------- |
