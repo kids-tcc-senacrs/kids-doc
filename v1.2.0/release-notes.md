@@ -11,4 +11,7 @@
 ```
 
 ### Telas
-![image]()
+
+![image](https://github.com/kids-tcc-senacrs/kids-doc/blob/master/v1.2.0/telas/vincular-familiares.jpg)
+
+![image](https://github.com/kids-tcc-senacrs/kids-doc/blob/master/v1.2.0/telas/vincular-familiares-add.jpg)
