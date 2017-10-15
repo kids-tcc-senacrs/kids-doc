@@ -13,6 +13,7 @@ _________________________________________________________________________
 * [acessar doc's - sprint 04](https://github.com/kids-tcc-senacrs/kids-doc/blob/master/v1.3.0/sumario.md) 
 * [acessar doc's - sprint 05](https://github.com/kids-tcc-senacrs/kids-doc/blob/master/v1.4.0/sumario.md) 
 * [acessar doc's - sprint 06](https://github.com/kids-tcc-senacrs/kids-doc/blob/master/v1.5.0/sumario.md) 
+* [acessar doc's - sprint 07](https://github.com/kids-tcc-senacrs/kids-doc/blob/master/v1.6.0/sumario.md) 
 _________________________________________________________________________
 
 * [Road Map](https://github.com/kids-tcc-senacrs/kids-doc/blob/master/road-map.md) 
