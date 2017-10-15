@@ -1,14 +1,16 @@
-# KIDS - Sprint Review v1.0.0 - [01-07-2017]
+# KIDS - Sprint Review v1.0.0
 
 Product Owner: Liziane Ortiz Silva 
 
-| Funcionalidades/tarefas                             | parecer |
-| ------ | ------ |
-| Login com conta google                              | aceito |
-| Escolha do tipo de usuário                          | aceito |
-| Cadastro de e perfil                                | aceito |
-| Descrever na capa do sistema o que ele faz          | solicitação de melhoria |
-| Breve texto sobre o tipo de usuário                 | solicitação de melhoria |
-| Adicionar telefone no 'perfil reduzido'             | solicitação de melhoria |
-| Destacar o 'tipo de usuário'                        | solicitação de melhoria |
-| No logout pelo desktop, direciona p\ tela incorreta | não conformidade |
+| Entregas realizadas                                 
+| --------------------------------------------------------------- 
+| [NOVA FUNCIONALIDADE] - US-01 - Realizar login com conta google 
+| [NOVA FUNCIONALIDADE] - US-02 - Escolha do tipo de usuário      
+| [NOVA FUNCIONALIDADE] - US-03 - Cadastro de perfil              
+
+| Melhorias solicitadas
+| --------------------------------------------------------------- 
+|[MELHORIA-01] - Descrever na capa do sistema o que ele faz;
+|[MELHORIA-02] - Breve texto sobre o tipo de usuário; 
+|[MELHORIA-03] - Adicionar telefone no 'perfil reduzido'; 
+|[MELHORIA-04] - Destacar o 'tipo de usuário' logado no portal';
