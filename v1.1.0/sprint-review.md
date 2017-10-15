@@ -1,10 +1,15 @@
-# KIDS - Sprint Review v1.1.0 - [30-07-2017]
+# KIDS - Sprint Review v1.1.0
 
 Product Owner: Liziane Ortiz Silva 
 
-| Funcionalidades/tarefas                             | parecer |
-| ------ | ------ |
-| Wizard para cadastro de crianças                    | aceito |
-| Pesquisa de crianças                                | aceito |
-| Adicionar número de telefone na área de perfil resumido |solicitação de melhoria|
-| cadastrar/editar a foto da criança                  | solicitação de melhoria - *pendente na entrega*|
+| Entregas realizadas                                 
+| --------------------------------------------------------------- 
+|[NOVA FUNCIONALIDADE] - US-04 - Wizard para cadastro de crianças;
+|[NOVA FUNCIONALIDADE] - US-05 - Pesquisa e edição de dados gerais das crianças; 
+|[NOVA FUNCIONALIDADE] - US-06 - Cadastro e edição de medicamentos;
+|[NOVA FUNCIONALIDADE] - US-07 - Cadastro de edição de alergias;
+
+| Melhorias solicitadas
+| --------------------------------------------------------------- 
+|[MELHORIA-05] - Cadastrar e editar a foto da criança;
+|[MELHORIA-06] - Ajustar textos em todas as telas onde não está responsivo;

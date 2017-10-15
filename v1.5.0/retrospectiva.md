@@ -1,11 +1,11 @@
 # KIDS - Restrospectiva v1.5.0
 
-| POSITIVO|
-| --------|
-| Entrega de 8 melhorias sugeridas pelo P.O |
-| Com internet durante todo sprint          |
-| Os dois sistemas distribuídos foram corrigidos para se comunicarem no Heroku|
+|POSITIVO|
+|-------------------------------------------------------------------------------------
+|Correção de todas não conformidades encontradas no Sprint anterior; 
+|Entrega de 08 melhorias sugeridas pelo P.O em Sprints anteriores; 
+|Com internet 100% durante todo Sprint;
 
-| NEGATIVO|
-| ------ |
-| *********************************************|
+|NEGATIVO|
+|-------------------------------------------------------------------------------------
+|Redução na cobertura de testes unitários;
